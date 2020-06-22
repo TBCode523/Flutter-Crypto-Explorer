@@ -1,6 +1,6 @@
-# mobile_block_explorer
+# Mobile Block Explorer
 
-A new Flutter application.
+An app designed to give a simple experience to help users explore the bitcoin and litecoin blockchain using the BlockCypher API and BLoC pattern.  
 
 ## Getting Started
 
